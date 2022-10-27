@@ -74,8 +74,10 @@ A cybersecurity lab is a good way to learn the skills required to develop your o
 * DMZ
 * Firewall 
 
-## Basic skills developed
-* IP addresses and subnetting
+## Linux and penetration testing
+### Basic skills developed
+* Basic commands
+* Nerwork commads
 * Common ports and services
 * IPv4 and IPv6 basic packet structure
 * HTTP methods (GET and POST)
